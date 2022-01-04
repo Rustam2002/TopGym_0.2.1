@@ -20,6 +20,7 @@ export default {
 </script>
 
 <style>
+/* Главна чтраница тут ничего менять нельзя */
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

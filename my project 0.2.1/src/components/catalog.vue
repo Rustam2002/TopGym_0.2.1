@@ -1,4 +1,5 @@
 <template>
+<!-- Тут прошу вообще не лезть пока яро работаю над беком если что то слетит будет писец полный -->
   <section id="catalog" class=" cat-block">
     <div>
       <div class="d-flex row main-c" >

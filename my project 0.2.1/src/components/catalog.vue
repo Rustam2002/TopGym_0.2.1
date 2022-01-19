@@ -11,7 +11,7 @@
               <h1>{{post.name}}</h1>
               <p>{{post.opis}}</p>
         </div>
-        <div class="d-flex cat-btn">
+        <div class="d-flex cat-btn">  
           <button>Описание</button>
           <button class="cen">{{post.price}}tg </button>
         </div>
